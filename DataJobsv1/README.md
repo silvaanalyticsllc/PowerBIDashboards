@@ -3,7 +3,7 @@
 ![Dashboard Page 1](/images/Project1Pg1.png)
 
 [View interactive dashboard here on the Power BI Service]
-(insert linke here)
+(insert link here)
 
 ## Introduction
 
